@@ -88,5 +88,5 @@
 
 
   </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-mauricio&" alt="igor-mauricio" /></p>
+<h3 align="left">Statistics:</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-mauricio&" alt="igor-mauricio" /></p>
