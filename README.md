@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Igor Maurício</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🎥 I’m currently building: **Library for Algorithms and Data Structures in C**
+- 🔨 I’m currently building: **Library for Algorithms and Data Structures in C**
 
 - 🌱 I’m currently learning: **Design Patterns for Embedded Systems**
 
-- 🎥 I’m building next: **Portfolio website in Django**
+- 🔨 I’m building next: **Portfolio website in Django**
 
 
 
