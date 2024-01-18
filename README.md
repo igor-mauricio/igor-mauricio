@@ -29,19 +29,41 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/> 
   </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+  </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a>
+
+  
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 
+  
 
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  
   </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-mauricio&" alt="igor-mauricio" /></p>
