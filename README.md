@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Igor Maurício</h1>
+<h1 align="center">Hi! I'm Igor Maurício</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔨 I’m currently building: **Library for Algorithms and Data Structures in C**
@@ -55,6 +55,9 @@
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://nodered.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://nodered.org/about/resources/media/node-red-hexagon.svg" alt="node-red" width="40" height="40"/> 
   </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
