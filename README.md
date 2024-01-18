@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Igor Maurício</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="left">Work in Progress:</h3>
 
 - 🔨 I’m currently building: **Library for Algorithms and Data Structures in C**
 
