@@ -41,12 +41,12 @@
     <img src="https://plugins.jetbrains.com/files/20588/418328/icon/pluginIcon.svg" alt="htmx" width="40" height="40"/>
   </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a>
+  </a> -->
 <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
