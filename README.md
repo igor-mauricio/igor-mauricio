@@ -4,7 +4,7 @@
 
 - 🔨 I’m currently building: **Library for Algorithms and Data Structures in C**
 
-- 🌱 I’m currently learning: **Design Patterns for Embedded Systems**
+- 🌱 I’m currently learning: **Flutter and Design Patterns for Embedded Systems**
 
 - 🔨 I’m building next: **Portfolio website in Django**
 
