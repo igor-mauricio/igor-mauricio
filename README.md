@@ -1,4 +1,3 @@
- 
 <h1 align="center">Hi! I'm Igor Maurício</h1>
 <h3 align="left">Work in Progress:</h3>
 
