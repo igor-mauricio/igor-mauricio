@@ -31,9 +31,9 @@
 </div>
 
 ### Statistics
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-mauricio&" alt="igor-mauricio" /></p>
 <div align="center">
 	<img 
 	style="width: 480px; height:120px;"
 	src="https://github-profile-trophy.vercel.app/?username=igor-mauricio&column=4&title=MultiLanguage,Repositories,Experience,Commits">
 </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-mauricio&" alt="igor-mauricio" /></p>
