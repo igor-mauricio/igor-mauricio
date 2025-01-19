@@ -28,6 +28,7 @@
 	<img src="https://img.shields.io/badge/-PlatformIO-404040?style=for-the-badge&logo=platformio&logoColor=ff7f00&labelColor=282828">
 	<img src="https://img.shields.io/badge/-ESP 32-404040?style=for-the-badge&logo=espressif&logoColor=e63835&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Arduino-404040?style=for-the-badge&logo=arduino&logoColor=089a9f&labelColor=282828">
+	<img src="https://img.shields.io/badge/-Raspberry Pi-404040?style=for-the-badge&logo=raspberrypi&logoColor=be1848&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Node red-404040?style=for-the-badge&logo=node-red&logoColor=e63835&labelColor=282828">
 </div>
 
