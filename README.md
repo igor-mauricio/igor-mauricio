@@ -19,15 +19,16 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/-Figma-404040?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Tailwind CSS-404040?style=for-the-badge&logo=tailwindcss&logoColor=1abffa&labelColor=282828">
-	<img src="https://img.shields.io/badge/-React-404040?style=for-the-badge&logo=react&logoColor=1abffa&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Flask-404040?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=282828">
+	<img src="https://img.shields.io/badge/-React-404040?style=for-the-badge&logo=react&logoColor=1abffa&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Wails-404040?style=for-the-badge&logo=wails&logoColor=e63835&labelColor=282828">
+
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/-Node red-404040?style=for-the-badge&logo=node-red&logoColor=e63835&labelColor=282828">
+	<img src="https://img.shields.io/badge/-PlatformIO-404040?style=for-the-badge&logo=platformio&logoColor=ff7f00&labelColor=282828">
 	<img src="https://img.shields.io/badge/-ESP 32-404040?style=for-the-badge&logo=espressif&logoColor=e63835&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Arduino-404040?style=for-the-badge&logo=arduino&logoColor=089a9f&labelColor=282828">
-	<img src="https://img.shields.io/badge/-PlatformIO-404040?style=for-the-badge&logo=platformio&logoColor=ff7f00&labelColor=282828">
+	<img src="https://img.shields.io/badge/-Node red-404040?style=for-the-badge&logo=node-red&logoColor=e63835&labelColor=282828">
 </div>
 
 ### Statistics
